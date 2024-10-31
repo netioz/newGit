@@ -1,5 +1,5 @@
 package newGit;
 
 public class tpye1 {
-	int a = 13;
+	int a = 223;
 }
